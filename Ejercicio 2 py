@@ -1,0 +1,7 @@
+
+
+Dueño2_array = [ 23577987  ,   "Ivan" ,   "Obregon" , 358887700 ,   "ramón ocampo 555" ]
+
+para  índice , valor  en  enumerar ( Dueño2_array ):
+    si ( índice  no  en ( 0 , 2 )):
+        imprimir ( valor )
